@@ -60,12 +60,17 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lunas322&show_icons=true&hide_border=true&title_color=2563eb&icon_color=2563eb&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunas322&layout=compact&hide_border=true&title_color=2563eb&langs_count=6" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lunas322&theme=transparent" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lunas322&theme=transparent" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lunas322&theme=transparent" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lunas322&theme=transparent" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lunas322&theme=transparent&utcOffset=9" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lunas322&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" />
+<img src="https://streak-stats.demolab.com/?user=Lunas322&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" />
 
 </div>
 
