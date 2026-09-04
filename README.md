@@ -105,10 +105,8 @@
 
 <div align="center">
 
-**📮 fpvmxm333477@naver.com**
-
 <a href="mailto:fpvmxm333477@naver.com">
-  <img src="https://img.shields.io/badge/fpvmxm333477%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white&labelColor=03C75A" alt="fpvmxm333477@naver.com" height="26" />
+  <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
 </a>
 
 
