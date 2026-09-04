@@ -14,9 +14,8 @@
 
 > **I am still learning.**
 
-- 웹사이트를 기획부터 배포까지 혼자 굴리는 프론트엔드 개발자입니다.
-- 클라이밍짐 · 로컬 브랜드 웹사이트를 주로 만듭니다.
-- **Next.js App Router + TypeScript + Tailwind** 조합을 가장 자주 씁니다.
+- 씩씩한 프론트엔드 개발자입니다.
+- **Next.js App Router OR React+ TypeScript + Tailwind** 조합을 가장 자주 씁니다.
 
 <br/>
 
@@ -73,9 +72,6 @@
 | Project | Stack | Description |
 | --- | --- | --- |
 | [HanQ](https://github.com/Lunas322/HanQ) | Next.js · TypeScript | 한큐 서비스 |
-| [sooon](https://github.com/Lunas322/sooon) | Next.js · TypeScript | 소온스테이 웹사이트 |
-| [mion-site](https://github.com/Lunas322/mion-site) | Next.js · TypeScript | 미온 브랜드 사이트 |
-| [climbus](https://github.com/Lunas322/climbus) | Next.js · TypeScript | 클라이밍 커뮤니티 |
 | [Today](https://github.com/Lunas322/Today) | TypeScript | 오늘의 일기 |
 
 <br/>
