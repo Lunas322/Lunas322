@@ -60,16 +60,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lunas322&theme=transparent" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lunas322&theme=transparent" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lunas322&theme=transparent" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lunas322&theme=transparent" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lunas322&theme=transparent&utcOffset=9" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=Lunas322&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" />
 
 </div>
@@ -119,7 +109,6 @@
   <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Lunas322&color=2563eb&style=flat-square&label=Profile+Views" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
 
