@@ -60,7 +60,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Lunas322&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" />
+<img src="https://streak-stats.demolab.com/?user=Lunas322&hide_border=true&background=00000000&stroke=00000000&ring=2563eb&fire=2563eb&currStreakLabel=2563eb&sideNums=808080&currStreakNum=808080&dates=808080&sideLabels=808080" />
 
 </div>
 
