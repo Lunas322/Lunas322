@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Heo%20Seongjin&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Engineer&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Heo%20seangjin&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Engineer&descAlignY=55&descSize=20"/>
 
 <a href="https://github.com/Lunas322">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=460&lines=Next.js+%C2%B7+React+%C2%B7+TypeScript;I+am+still+learning." alt="Typing SVG" />
